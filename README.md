@@ -16,5 +16,4 @@
 * [ ] File System support
   * [ ] btrfs
   * [ ] ext4
-  * [ ] ext3
   * [ ] fat32
